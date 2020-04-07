@@ -1,6 +1,8 @@
 # E10a-Blender
 This exercise will give you an opportunity to get some experience using Blender (in advance of the requirements for Project 09).
 
+Created man and monster as designated by videos
+
 As usual, Fork and Clone this repository.
 
 The first step will be to download and install Blender 2.82a from [https://www.blender.org](https://www.blender.org).
